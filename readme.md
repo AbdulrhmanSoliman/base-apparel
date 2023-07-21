@@ -6,7 +6,7 @@
 
 ## Description
 
-building a a static and responsive page using HTML, CSS & JS
+building a static and responsive page using HTML, CSS & JS
 
 ## Badges
 
