@@ -6,13 +6,15 @@
   margin: 0;
 }
 body {
+  min-height: 100vh;
+  font-family: "Josefin Sans", sans-serif;
+}
+main {
   display: flex;
   justify-content: space-between;
-  min-height: 100vh;
   background: url("../images/bg-pattern-desktop.svg"),
     linear-gradient(135deg, hsl(0, 0%, 100%), hsl(0, 100%, 98%));
   background-repeat: no-repeat;
-  font-family: "Josefin Sans", sans-serif;
 }
 .details {
   flex: 1;
