@@ -13,7 +13,6 @@ building a a static and responsive page using HTML, CSS & JS
 ![badmath](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![badmath](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![badmath](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
 
 ## My FrontEnd Mentor Profile
 
